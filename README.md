@@ -7,6 +7,11 @@
 Turning historical retail transactions into business insights using SQL, Python, and data visualization.
 
 ---
+## Explore the Notebook
+
+**[Open Retail Intelligence Lab in Google Colab](https://colab.research.google.com/drive/1zNr9_R6lUsp2N1MywZz9RpLjsM7tpbKY?usp=sharing)**
+
+Open the notebook to explore the SQL queries, Python analysis, visualizations, and business recommendations.
 
 ## Project Overview
 
